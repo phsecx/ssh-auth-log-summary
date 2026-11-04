@@ -1,0 +1,6 @@
+Nov  4 10:00:01 lab-host sshd[1201]: Failed password for alice from 198.51.100.23 port 41001 ssh2
+Nov  4 10:00:08 lab-host sshd[1202]: Failed password for invalid user guest from 198.51.100.23 port 41002 ssh2
+Nov  4 10:00:19 lab-host sshd[1203]: Failed password for bob from 2001:db8::7 port 41003 ssh2
+Nov  4 10:00:27 lab-host sshd[1204]: Failed password for alice from 198.51.100.23 port 41004 ssh2
+Nov  4 10:00:35 lab-host sshd[1205]: Accepted password for alice from 203.0.113.9 port 41005 ssh2
+Nov  4 10:00:42 lab-host sshd[1206]: Connection closed by authenticating user bob 192.0.2.44 port 41006 [preauth]
